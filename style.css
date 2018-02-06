@@ -1,0 +1,24 @@
+body {
+	background: #FFCA99;
+	font-family: Calibri, sans-serif;
+	color: #1C130B;
+}
+
+a {
+	color: #1C130B;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+img {
+	box-shadow: 2px 2px 5px #1C130B;
+}
+
+input {
+	text-align: center;
+	padding: 8px;
+}
